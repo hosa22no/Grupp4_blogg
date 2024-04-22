@@ -19,6 +19,6 @@ Applikationen ska använda två av följande tekniker för lagring av data på k
 
 ### Requirements
 
-[]
-[]
+[] Dark / light mode
+[] Save blog posts in local storage
 []
