@@ -17,8 +17,15 @@ Applikationen ska använda två av följande tekniker för lagring av data på k
 - Utmaningar ni stötte på under utvecklingen och hur ni löste dem.
 
 
-### Requirements
+# Requirements for Blog
+
+## Product Description
+
+The Blog is a web application that allows users to write, publish and read blog posts. The user should be able to add pictures to each post. The application should be responsive and user-friendly to accommodate users on both desktop and mobile devices.
+
+## Functional Requirements
 
 [] Dark / light mode
 [] Save blog posts in local storage
+[] Using cookies to store user preferences
 []
