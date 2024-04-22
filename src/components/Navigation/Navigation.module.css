@@ -1,0 +1,24 @@
+.link{
+    border-radius: 15px;
+    background-color: #80aec2;
+    margin-top: 1rem ;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.link a{
+    border-radius: 80%; 
+    color:#2D3D44 ;
+    text-decoration: none;
+    padding: 10px;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: block;
+    transition: color 0.3s;
+}
+
+.link a:hover{
+    color: #f7e9d3;
+}

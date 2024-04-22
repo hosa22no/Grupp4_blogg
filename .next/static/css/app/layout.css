@@ -178,3 +178,92 @@ a {
   }
 }
 
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/components/Header/Header.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+.Header_bloggLogo__QK9wQ {
+    border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Header_headerContainer__4fbbd {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #2d3d44;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.Header_header__AF_3G h1 {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #f7e9d3;
+  margin-left: 4rem;
+}
+
+.Header_content__Hg4sZ {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.Header_nav__LVYU2 {
+  display: flex;
+  margin: 2rem 1rem;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  width: 80%;
+  padding: 0 20px;
+}
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/components/Navigation/Navigation.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+.Navigation_link__5_hoD{
+    border-radius: 15px;
+    background-color: #80aec2;
+    margin-top: 1rem ;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.Navigation_link__5_hoD a{
+    border-radius: 80%; 
+    color:#2D3D44 ;
+    text-decoration: none;
+    padding: 10px;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    display: block;
+    transition: color 0.3s;
+}
+
+.Navigation_link__5_hoD a:hover{
+    color: #f7e9d3;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/components/Footer/Footer.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+.Footer_footer__4vzqH{
+    background-color: #2D3D44;
+    color: #F7E9D3;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+}
